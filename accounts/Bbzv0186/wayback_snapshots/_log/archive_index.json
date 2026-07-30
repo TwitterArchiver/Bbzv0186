@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-30T23:28:51",
+  "last_updated": "2026-07-30T23:29:12",
   "html": {
     "https://web.archive.org/web/20260529025103if_/https://twitter.com/Bbzv0186/status/2060192167629660639": {
       "status": "done",
@@ -678,9 +678,9 @@
       "referenced_by": [
         "20251026042419_twitter_com_Bbzv0186_status_1982302244856070148.json"
       ],
-      "last_updated": "2026-07-30T23:26:40",
+      "last_updated": "2026-07-30T23:29:10",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20251026042419/https://video.twimg.com/tweet_video/G1mTKVca0AAMUPV.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2060694133334056961/pu/vid/avc1/856x480/oRCqilsmtaWqJsGC.mp4?tag=12": {
       "status": "failed_all",
@@ -688,18 +688,18 @@
         "20260530121017_twitter_com_Bbzv0186_status_2060695288218632613.json",
         "20260530121100_twitter_com_Bbzv0186_status_2060695470213611745.json"
       ],
-      "last_updated": "2026-07-30T23:26:42",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260530121100/https://video.twimg.com/ext_tw_video/2060694133334056961/pu/vid/avc1/856x480/oRCqilsmtaWqJsGC.mp4?tag=12",
-      "miss_count": 4
+      "last_updated": "2026-07-30T23:29:11",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260530121017/https://video.twimg.com/ext_tw_video/2060694133334056961/pu/vid/avc1/856x480/oRCqilsmtaWqJsGC.mp4?tag=12",
+      "miss_count": 5
     },
     "https://video.twimg.com/ext_tw_video/2063133636623523840/pu/vid/avc1/582x1278/ogZ0N9zewUAmgsNi.mp4?tag=12": {
       "status": "failed_all",
       "referenced_by": [
         "20260606061817_twitter_com_Bbzv0186_status_2063143420689035415.json"
       ],
-      "last_updated": "2026-07-30T23:26:42",
+      "last_updated": "2026-07-30T23:29:12",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260606061817/https://video.twimg.com/ext_tw_video/2063133636623523840/pu/vid/avc1/582x1278/ogZ0N9zewUAmgsNi.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     }
   },
   "avatars": {
